@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Packaging/build output
+build/
+dist/
+*.spec
+
+# Environment/editor files
+.env
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary LibreOffice profile
+.lo_profile/
